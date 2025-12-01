@@ -5,7 +5,7 @@ import Layout from './Layout';
 import Login from './components/Login';
 import Product from './components/Product';
 import Viewproduct from './components/Viewproduct';
-import Demo2 from './components/demo2';
+// import Demo2 from './components/demo2';
 import UserInfoProvider from './providers/UserInfoProvider';
 import LinkProvider from './providers/LinkProvider';
 import Demopage from './components/demopage';
