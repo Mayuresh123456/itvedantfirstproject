@@ -8,7 +8,7 @@ import Viewproduct from './components/Viewproduct';
 // import Demo2 from './components/demo2';
 import UserInfoProvider from './providers/UserInfoProvider';
 import LinkProvider from './providers/LinkProvider';
-import Demopage from './components/demopage';
+// import Demopage from './components/demopage';
 import Demo5 from './components/Demo5';
 import Demo6 from './components/Demo6';
 
