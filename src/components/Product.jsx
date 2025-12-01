@@ -55,7 +55,7 @@
 
 import { useEffect, useState } from 'react';
 import './Navbar.css'
-import axios from 'axios';
+
 import { useParams, useSearchParams } from 'react-router-dom';
 import { Link } from 'react-router-dom';
 
